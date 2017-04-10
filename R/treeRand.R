@@ -5,7 +5,6 @@
 #' @return Le resume de modele arbre decisin sur \code{nbLig} ligne et \code{nbCol} colonne
 #' @examples
 #' treeFunKeyrus(10, 2)
-#' mult(100, 5)
 
 treeFunKeyrus<-function(nbLig,nbCol){
 	myData = data.frame(y=sample(c(0,1),size=nbLig, replace = TRUE),matrix(rnorm(nbLig*nbCol) , ncol=nbCol))

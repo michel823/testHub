@@ -4,7 +4,10 @@
 #' @param nbCol nombre de colonne
 #' @return Le resume de modele arbre decisin sur \code{nbLig} ligne et \code{nbCol} colonne
 #' @examples
-#' treeFunKeyrus(10, 2)
+#' \dontrun{
+ treeFunKeyrus(10, 2)
+#' }
+
 library(stats)
 library(rpart)
 treeFunKeyrus<-function(nbLig,nbCol){

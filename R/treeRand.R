@@ -5,7 +5,7 @@
 #' @return Le resume de modele arbre decisin sur \code{nbLig} ligne et \code{nbCol} colonne
 #' @examples
 #' \dontrun{
- treeFunKeyrus(10, 2)
+#' treeFunKeyrus(10, 2)
 #' }
 
 library(stats)

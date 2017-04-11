@@ -18,6 +18,8 @@ La somme de \code{x} et \code{y}
 sommer 2 nombres
 }
 \examples{
+\dontrun{
 plus(2, 3)
 plus(10, 20)
+}
 }

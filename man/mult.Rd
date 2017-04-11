@@ -18,6 +18,8 @@ Le produit de \code{x} et \code{y}
 multiplier 2 nombres
 }
 \examples{
+\dontrun{
 mult(2, 3)
 mult(10, 20)
+}
 }

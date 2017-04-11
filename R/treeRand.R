@@ -1,7 +1,7 @@
 #' Arbre decision sur une matrice aleatoire
 #'
-#' @param nbLig nombre de ligne
-#' @param nbCol nombre de colonne
+#' @param nbLig nombre de lignes
+#' @param nbCol nombre de colonnes
 #' @return Le resume de modele arbre decisin sur \code{nbLig} ligne et \code{nbCol} colonne
 #' @examples
 #' \dontrun{

@@ -24,5 +24,5 @@ mult  <- function (x, y) {
 #' }
 
 plus  <- function (x, y) {
-  print(paste0(x," + ",y , " = " , x+y))
+  cat(paste0(x," + ",y , " = " , x+y))
   x + y }

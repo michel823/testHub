@@ -20,6 +20,6 @@ multiplier 2 nombres
 \examples{
 \dontrun{
 mult(2, 3)
-mult(10, 20)
+mult(10, 2)
 }
 }
